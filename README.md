@@ -8,4 +8,4 @@ Link do projeto
 https://joaovictor-jv.github.io/MemoryGame-RickAndMorty/
 
 <p>Tecnologia Utilizada</p>
-HTML • CSS • Java
+HTML • CSS • Javascript
